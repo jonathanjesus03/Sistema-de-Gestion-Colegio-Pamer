@@ -1,6 +1,7 @@
 # 📚 Sistema de Gestión para el Colegio Pamer
 
 Este es un proyecto académico desarrollado en **Java** durante mi curso de Algoritmo y estructura de datos en mi quinto ciclo de Ingeniería de Software. El sistema gestiona integralmente el colegio **Pamer**, administrando **alumnos, apoderados, profesores, cursos, horarios, matrículas y salones**. Utiliza el patrón **MVC** y diversas estructuras de datos (listas, colas, pilas, árboles) implementadas para la persistencia en archivos binarios, reflejando mi aprendizaje en diseño de software y manejo de estructuras de datos.
+
 ---
 
 ## 📸 Vista Previa
